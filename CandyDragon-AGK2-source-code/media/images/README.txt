@@ -1,0 +1,1 @@
+The images are shared under CC0 Public Domain License, visit www.opengameart.org for Terms of Use
