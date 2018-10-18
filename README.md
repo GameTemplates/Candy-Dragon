@@ -22,4 +22,4 @@ The source code is completely free to use for any purposes. Note: Images, sounds
 
 In case you like what we do, you can support us with a small amount of donation at: https://gametemplates.itch.io/template-candy-dragon
 
-You can also contribut with new features or help improving the existing ones.
+You can also contribute with new features or help improving the existing ones.
