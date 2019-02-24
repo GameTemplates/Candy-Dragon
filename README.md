@@ -17,6 +17,7 @@ The source is available for the following engines:
 
     AppGameKit 2 Tier1
     GDevelop5
+    Godot3 Mono (C#) 
     
 The source code is completely free to use for any purposes. Note: Images, sounds and fonts are included for demonstation purposes only for non commercial use.
 
