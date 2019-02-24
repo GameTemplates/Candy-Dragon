@@ -1,0 +1,15 @@
+[remap]
+
+importer="ogg_vorbis"
+type="AudioStreamOGGVorbis"
+path="res://.import/burp.ogg-b0d3e21e3155d74f0ddffc262d22aca7.oggstr"
+
+[deps]
+
+source_file="res://sounds/burp.ogg"
+dest_files=[ "res://.import/burp.ogg-b0d3e21e3155d74f0ddffc262d22aca7.oggstr" ]
+
+[params]
+
+loop=false
+loop_offset=0

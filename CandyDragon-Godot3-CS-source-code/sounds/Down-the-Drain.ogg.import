@@ -1,0 +1,15 @@
+[remap]
+
+importer="ogg_vorbis"
+type="AudioStreamOGGVorbis"
+path="res://.import/Down-the-Drain.ogg-3a91b2ff69a200e608d045ba8bbaf1f8.oggstr"
+
+[deps]
+
+source_file="res://sounds/Down-the-Drain.ogg"
+dest_files=[ "res://.import/Down-the-Drain.ogg-3a91b2ff69a200e608d045ba8bbaf1f8.oggstr" ]
+
+[params]
+
+loop=true
+loop_offset=0

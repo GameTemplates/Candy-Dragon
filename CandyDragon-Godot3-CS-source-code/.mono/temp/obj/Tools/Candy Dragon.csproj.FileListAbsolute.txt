@@ -1,0 +1,6 @@
+/home/szoszo/Documents/Projects/GodotMono/CandyDragon/.mono/temp/obj/Tools/Candy Dragon.csprojAssemblyReference.cache
+/home/szoszo/Documents/Projects/GodotMono/CandyDragon/.mono/temp/obj/Tools/Candy Dragon.csproj.CoreCompileInputs.cache
+/home/szoszo/Documents/Projects/GodotMono/CandyDragon/.mono/temp/bin/Tools/Candy Dragon.dll
+/home/szoszo/Documents/Projects/GodotMono/CandyDragon/.mono/temp/bin/Tools/Candy Dragon.pdb
+/home/szoszo/Documents/Projects/GodotMono/CandyDragon/.mono/temp/obj/Tools/Candy Dragon.dll
+/home/szoszo/Documents/Projects/GodotMono/CandyDragon/.mono/temp/obj/Tools/Candy Dragon.pdb

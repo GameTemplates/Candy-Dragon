@@ -1,0 +1,15 @@
+[remap]
+
+importer="ogg_vorbis"
+type="AudioStreamOGGVorbis"
+path="res://.import/Caped-Crusader-Cat.ogg-7165344c4874e19b958b315a1f8718cf.oggstr"
+
+[deps]
+
+source_file="res://sounds/Caped-Crusader-Cat.ogg"
+dest_files=[ "res://.import/Caped-Crusader-Cat.ogg-7165344c4874e19b958b315a1f8718cf.oggstr" ]
+
+[params]
+
+loop=true
+loop_offset=0

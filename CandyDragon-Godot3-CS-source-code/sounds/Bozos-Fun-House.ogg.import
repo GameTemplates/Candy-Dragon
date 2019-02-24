@@ -1,0 +1,15 @@
+[remap]
+
+importer="ogg_vorbis"
+type="AudioStreamOGGVorbis"
+path="res://.import/Bozos-Fun-House.ogg-600efc6bcb8b8cad7139ee0f5a501b45.oggstr"
+
+[deps]
+
+source_file="res://sounds/Bozos-Fun-House.ogg"
+dest_files=[ "res://.import/Bozos-Fun-House.ogg-600efc6bcb8b8cad7139ee0f5a501b45.oggstr" ]
+
+[params]
+
+loop=true
+loop_offset=0
