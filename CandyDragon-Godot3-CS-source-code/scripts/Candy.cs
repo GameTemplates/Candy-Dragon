@@ -38,7 +38,7 @@ public class Candy : Node2D
 		/*NOTE: 
 		if the candy colliding with the dragon
 		and the animation of the candy is the same as the dragon-candy, we delete the candy
-		it is handled in Dragon.cs because by the timer we trigger the collidion event here, we change the animation of the dragon-candy
+		it is handled in Dragon.cs because by the timer we trigger the collision event here, we change the animation of the dragon-candy
 		*/
 		
 		//get current position
