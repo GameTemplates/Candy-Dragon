@@ -4,3 +4,9 @@
 /home/szoszo/Documents/Projects/GodotMono/CandyDragon/.mono/temp/bin/Tools/Candy Dragon.pdb
 /home/szoszo/Documents/Projects/GodotMono/CandyDragon/.mono/temp/obj/Tools/Candy Dragon.dll
 /home/szoszo/Documents/Projects/GodotMono/CandyDragon/.mono/temp/obj/Tools/Candy Dragon.pdb
+C:\Users\szoszo\Desktop\Projects\gametemplates\GodotMono\CandyDragon-Godot3-CS-source-code\.mono\temp\bin\Tools\Candy Dragon.dll
+C:\Users\szoszo\Desktop\Projects\gametemplates\GodotMono\CandyDragon-Godot3-CS-source-code\.mono\temp\bin\Tools\Candy Dragon.pdb
+C:\Users\szoszo\Desktop\Projects\gametemplates\GodotMono\CandyDragon-Godot3-CS-source-code\.mono\temp\obj\Tools\Candy Dragon.csprojAssemblyReference.cache
+C:\Users\szoszo\Desktop\Projects\gametemplates\GodotMono\CandyDragon-Godot3-CS-source-code\.mono\temp\obj\Tools\Candy Dragon.csproj.CoreCompileInputs.cache
+C:\Users\szoszo\Desktop\Projects\gametemplates\GodotMono\CandyDragon-Godot3-CS-source-code\.mono\temp\obj\Tools\Candy Dragon.dll
+C:\Users\szoszo\Desktop\Projects\gametemplates\GodotMono\CandyDragon-Godot3-CS-source-code\.mono\temp\obj\Tools\Candy Dragon.pdb
